@@ -1,0 +1,4 @@
+#!/bin/bash
+
+java -cp K3Translator.jar:bcel-5.2.jar  Translator es root_4.1.1/opt/amazon/ebook/booklet strings_4.1.1
+java -cp K3Translator.jar:bcel-5.2.jar  Translator es root_4.1.1/opt/amazon/ebook/lib strings_4.1.1

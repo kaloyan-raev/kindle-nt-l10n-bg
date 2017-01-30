@@ -1,0 +1,5 @@
+loc_hack/*.zip
+loc_hack/src/img.tar.gz
+loc_hack/src/low_level_screens.tar.gz
+loc_hack/src/kindletool
+*.sqlite

@@ -1,0 +1,20 @@
+#!/bin/sh
+
+echo "=======================================================================" >> /mnt/us/localization/update.log
+echo "$(date +"%Y-%m-%d %H:%M:%S") Command: '$0 $@'" >> /mnt/us/localization/update.log
+echo "Update files:" >> /mnt/us/localization/update.log
+ls -l /mnt/us/?pdate_*.bin >> /mnt/us/localization/update.log
+echo >> /mnt/us/localization/update.log
+echo "About to install:" >> /mnt/us/localization/update.log
+cat /tmp/.framework_update  >> /mnt/us/localization/update.log
+echo >> /mnt/us/localization/update.log
+
+if [ "$1" == "-i" ]
+then
+    echo "Immediate update (i.e. initiated by user), proceeding..." >> /mnt/us/localization/update.log
+    exec /usr/sbin/updatewait $@
+else
+    echo "Pushed update (i.e. initiated by Amazon), denied..." >> /mnt/us/localization/update.log
+    echo "Deleting temporary update pointer" >> /mnt/us/localization/update.log
+    rm -f /tmp/.framework_update 2>/dev/null
+fi

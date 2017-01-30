@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.1
+Created-By: Blackdown-1.4.2-02 (Blackdown Java-Linux Team)
+Implementation-Vendor: Amazon.com
+Implementation-Title: framework-impl bg_BG resources
+Implementation-Version: ${version_revision}.${build}
+Created-At: 20130112-2027
+
