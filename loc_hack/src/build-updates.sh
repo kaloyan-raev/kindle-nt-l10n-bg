@@ -37,7 +37,7 @@ cp -f install_nff_nlp.sh install.sh
 
 # Pack the updates
 rm -f ../${PKGNAME}_${PKGVER}.zip
-zip -r ../${PKGNAME}_${PKGVER}.zip *.bin Readme.txt keyboards
+zip -r ../${PKGNAME}_${PKGVER}.zip *.bin Readme.txt
 rm -f *.bin
 rm img.tar.gz
 rm low_level_screens.tar.gz
