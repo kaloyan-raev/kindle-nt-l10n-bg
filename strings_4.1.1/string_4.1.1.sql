@@ -127,7 +127,7 @@ INSERT INTO `trans` VALUES ('Kindle Store is blocked.','Магазинът на 
 INSERT INTO `trans` VALUES ('Active Content is blocked.','Приложенията са блокирани.','./com/amazon/ebook/framework/impl/resources/DevicePolicyManagerResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('MP3 Player is blocked.','MP3 плеърът е блокиран.','./com/amazon/ebook/framework/impl/resources/DevicePolicyManagerResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Game is blocked.','Игрите са блокирани.','./com/amazon/ebook/framework/impl/resources/DevicePolicyManagerResources_en_GB.translation','strings_4.1.1');
-INSERT INTO `trans` VALUES ('(title missing)','(заголовок відсутній)','./com/amazon/ebook/framework/impl/resources/UDLUriHandlerResources_en_GB.translation','strings_4.1.1');
+INSERT INTO `trans` VALUES ('(title missing)','(липсва заглавие)','./com/amazon/ebook/framework/impl/resources/UDLUriHandlerResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Close the keyboard for your password hint.','Закрийте клавіатуру для перегляду підказки.','./com/amazon/ebook/framework/impl/resources/PasswordResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Press the Down Arrow on  for your password hint.','Натисніть стрілку «Вниз» на  для перегляду підказки.','./com/amazon/ebook/framework/impl/resources/PasswordResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Press the Down Arrow on  for more information.','Натисни стрілку «Вниз» на , щоб отримати інформацію.','./com/amazon/ebook/framework/impl/resources/PasswordResources_en_GB.translation','strings_4.1.1');
