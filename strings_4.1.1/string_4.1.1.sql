@@ -343,10 +343,10 @@ INSERT INTO `trans` VALUES ('This book is using custom typefaces that are not ad
 INSERT INTO `trans` VALUES ('Publisher Font','Вградени шрифтове','./com/amazon/ebook/common/gui/overlay/resources/PageActionsOverlayResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('on','включи','./com/amazon/ebook/common/gui/overlay/resources/PageActionsOverlayResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('off','излкючи','./com/amazon/ebook/common/gui/overlay/resources/PageActionsOverlayResources_en_GB.translation','strings_4.1.1');
-INSERT INTO `trans` VALUES (' my items',' в моїх елементах','./com/amazon/ebook/common/resources/SearchFeatureResources_en_GB.translation','strings_4.1.1');
-INSERT INTO `trans` VALUES ('store','магазин','./com/amazon/ebook/common/resources/SearchFeatureResources_en_GB.translation','strings_4.1.1');
-INSERT INTO `trans` VALUES ('dictionary','словник','./com/amazon/ebook/common/resources/SearchFeatureResources_en_GB.translation','strings_4.1.1');
-INSERT INTO `trans` VALUES ('go to','перейти до','./com/amazon/ebook/common/resources/SearchFeatureResources_en_GB.translation','strings_4.1.1');
+INSERT INTO `trans` VALUES (' my items',' мои артикула','./com/amazon/ebook/common/resources/SearchFeatureResources_en_GB.translation','strings_4.1.1');
+INSERT INTO `trans` VALUES ('store','книжарница','./com/amazon/ebook/common/resources/SearchFeatureResources_en_GB.translation','strings_4.1.1');
+INSERT INTO `trans` VALUES ('dictionary','речник','./com/amazon/ebook/common/resources/SearchFeatureResources_en_GB.translation','strings_4.1.1');
+INSERT INTO `trans` VALUES ('go to','отиди на','./com/amazon/ebook/common/resources/SearchFeatureResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('0#{0} sec.|60#{1} min. {0} sec.|3600#{2} hr. {1} min. {0} sec.','0#{0} сек.|60#{1} хв. {0} сек.|3600#{2} год. {1} хв. {0} сек.','./com/amazon/ebook/common/resources/CommonWidgetsResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Africa','Африка','./com/amazon/ebook/util/resources/TimeZoneUtilResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('America','Америка','./com/amazon/ebook/util/resources/TimeZoneUtilResources_en_GB.translation','strings_4.1.1');
