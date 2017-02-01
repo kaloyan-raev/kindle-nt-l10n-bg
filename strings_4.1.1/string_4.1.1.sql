@@ -191,9 +191,9 @@ INSERT INTO `trans` VALUES ('Dictionary','Речник','./com/amazon/ebook/fram
 INSERT INTO `trans` VALUES ('Group','Група','./com/amazon/ebook/framework/resources/MetadataResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Collection','Колекция','./com/amazon/ebook/framework/resources/MetadataResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Audible Book','Аудиокнига','./com/amazon/ebook/framework/resources/MetadataResources_en_GB.translation','strings_4.1.1');
-INSERT INTO `trans` VALUES ('Press {0} to begin typing','Натисніть {0}, щоб почати набір','./com/amazon/ebook/framework/resources/KeyboardResources_en_GB.translation','strings_4.1.1');
-INSERT INTO `trans` VALUES ('Press {0} to close the keyboard','Натисніть {0}, щоб закрити клавіатуру','./com/amazon/ebook/framework/resources/KeyboardResources_en_GB.translation','strings_4.1.1');
-INSERT INTO `trans` VALUES ('Done','Вихід','./com/amazon/ebook/framework/resources/KeyboardResources_en_GB.translation','strings_4.1.1');
+INSERT INTO `trans` VALUES ('Press {0} to begin typing','Натиснете {0}, за да започнете да набирате текст','./com/amazon/ebook/framework/resources/KeyboardResources_en_GB.translation','strings_4.1.1');
+INSERT INTO `trans` VALUES ('Press {0} to close the keyboard','Натиснете {0}, за да затворите клавиатурата','./com/amazon/ebook/framework/resources/KeyboardResources_en_GB.translation','strings_4.1.1');
+INSERT INTO `trans` VALUES ('Done','Изход','./com/amazon/ebook/framework/resources/KeyboardResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Password: ','Пароль:','./com/amazon/ebook/framework/resources/RegistrationOverlayResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('hide','приховати','./com/amazon/ebook/framework/resources/RegistrationOverlayResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('show','показати','./com/amazon/ebook/framework/resources/RegistrationOverlayResources_en_GB.translation','strings_4.1.1');
