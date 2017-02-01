@@ -353,11 +353,11 @@ INSERT INTO `trans` VALUES ('America','Америка','./com/amazon/ebook/util/
 INSERT INTO `trans` VALUES ('Antarctica','Антарктида','./com/amazon/ebook/util/resources/TimeZoneUtilResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Arctic','Арктика','./com/amazon/ebook/util/resources/TimeZoneUtilResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Atlantic','Атлантика','./com/amazon/ebook/util/resources/TimeZoneUtilResources_en_GB.translation','strings_4.1.1');
-INSERT INTO `trans` VALUES ('Europe','Європа','./com/amazon/ebook/util/resources/TimeZoneUtilResources_en_GB.translation','strings_4.1.1');
-INSERT INTO `trans` VALUES ('Indian','Індія','./com/amazon/ebook/util/resources/TimeZoneUtilResources_en_GB.translation','strings_4.1.1');
-INSERT INTO `trans` VALUES ('Pacific','Океанія','./com/amazon/ebook/util/resources/TimeZoneUtilResources_en_GB.translation','strings_4.1.1');
-INSERT INTO `trans` VALUES ('-None-','-Відсутній-','./com/amazon/ebook/xyml/resources/TextElementResources_en_GB.translation','strings_4.1.1');
-INSERT INTO `trans` VALUES ('{0,number,integer} of {1,number,integer}','{0,number,integer} з {1,number,integer}','./com/amazon/ebook/xyml/resources/TextElementResources_en_GB.translation','strings_4.1.1');
+INSERT INTO `trans` VALUES ('Europe','Европа','./com/amazon/ebook/util/resources/TimeZoneUtilResources_en_GB.translation','strings_4.1.1');
+INSERT INTO `trans` VALUES ('Indian','Индия','./com/amazon/ebook/util/resources/TimeZoneUtilResources_en_GB.translation','strings_4.1.1');
+INSERT INTO `trans` VALUES ('Pacific','Океания','./com/amazon/ebook/util/resources/TimeZoneUtilResources_en_GB.translation','strings_4.1.1');
+INSERT INTO `trans` VALUES ('-None-','-Няма-','./com/amazon/ebook/xyml/resources/TextElementResources_en_GB.translation','strings_4.1.1');
+INSERT INTO `trans` VALUES ('{0,number,integer} of {1,number,integer}','{0,number,integer} от {1,number,integer}','./com/amazon/ebook/xyml/resources/TextElementResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Server inserted empty string as updated title','Сервер повернув порожній рядок замість назви','./com/amazon/ebook/booklet/mobireader/impl/resources/MobiReaderResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('1#Zoom Image|2#Zoom Image {0,number,integer}','1#Масштаб зображення|2#Масштаб зображення {0,number,integer}','./com/amazon/ebook/booklet/mobireader/impl/resources/MobiReaderResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('1#Follow Link|2#Follow Link {0,number,integer}','1#Перейти за посиланням|2#Перейти за посиланням {0,number,integer}','./com/amazon/ebook/booklet/mobireader/impl/resources/MobiReaderResources_en_GB.translation','strings_4.1.1');
