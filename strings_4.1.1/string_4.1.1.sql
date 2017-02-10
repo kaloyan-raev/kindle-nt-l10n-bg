@@ -181,7 +181,7 @@ INSERT INTO `trans` VALUES ('landscape','пейзаж','./com/amazon/ebook/frame
 INSERT INTO `trans` VALUES ('portrait','портрет','./com/amazon/ebook/framework/resources/GlobalMenuItems_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('inverted landscape','обърнат пейзаж','./com/amazon/ebook/framework/resources/GlobalMenuItems_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('inverted portrait','обърнат портрет','./com/amazon/ebook/framework/resources/GlobalMenuItems_en_GB.translation','strings_4.1.1');
-INSERT INTO `trans` VALUES ('Screen Rotation','Ориентация на екрана','./com/amazon/ebook/framework/resources/GlobalMenuItems_en_GB.translation','strings_4.1.1');
+INSERT INTO `trans` VALUES ('Screen Rotation','Ориентация','./com/amazon/ebook/framework/resources/GlobalMenuItems_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('EBook','Ел.книга','./com/amazon/ebook/framework/resources/MetadataResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Newspaper','Вестник','./com/amazon/ebook/framework/resources/MetadataResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Magazine','Списание','./com/amazon/ebook/framework/resources/MetadataResources_en_GB.translation','strings_4.1.1');
