@@ -1142,7 +1142,7 @@ INSERT INTO `trans` VALUES ('Settings','Настройки','./com/amazon/ebook/
 INSERT INTO `trans` VALUES ('cancel','отмени','./com/amazon/ebook/booklet/home/foundation/resources/LanguagePickerResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Device Language','Език на интерфейса','./com/amazon/ebook/booklet/home/foundation/resources/LanguagePickerResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('select','избери','./com/amazon/ebook/booklet/home/foundation/resources/LanguagePickerResources_en_GB.translation','strings_4.1.1');
-INSERT INTO `trans` VALUES ('current','настоящ','./com/amazon/ebook/booklet/home/foundation/resources/LanguagePickerResources_en_GB.translation','strings_4.1.1');
+INSERT INTO `trans` VALUES ('current','избран','./com/amazon/ebook/booklet/home/foundation/resources/LanguagePickerResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('You have selected:~~{0}~~Select OK to restart your Kindle in this language.','Избрахте:~~{0}~~Натиснете OK, за да рестартирате Kindle на този език.','./com/amazon/ebook/booklet/home/foundation/resources/LanguagePickerResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('{0}~~is already selected as your device language.','{0}~~е вече избран за език на интерфейса.','./com/amazon/ebook/booklet/home/foundation/resources/LanguagePickerResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('No Items','Няма артикули','./com/amazon/ebook/booklet/home/foundation/resources/WidgetResources_en_GB.translation','strings_4.1.1');
