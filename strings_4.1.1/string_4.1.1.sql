@@ -193,7 +193,7 @@ INSERT INTO `trans` VALUES ('Collection','Колекция','./com/amazon/ebook/
 INSERT INTO `trans` VALUES ('Audible Book','Аудиокнига','./com/amazon/ebook/framework/resources/MetadataResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Press {0} to begin typing','Натиснете {0}, за да започнете да набирате текст','./com/amazon/ebook/framework/resources/KeyboardResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Press {0} to close the keyboard','Натиснете {0}, за да затворите клавиатурата','./com/amazon/ebook/framework/resources/KeyboardResources_en_GB.translation','strings_4.1.1');
-INSERT INTO `trans` VALUES ('Done','Край','./com/amazon/ebook/framework/resources/KeyboardResources_en_GB.translation','strings_4.1.1');
+INSERT INTO `trans` VALUES ('Done','край','./com/amazon/ebook/framework/resources/KeyboardResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Password: ','Парола:','./com/amazon/ebook/framework/resources/RegistrationOverlayResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('hide','скрий','./com/amazon/ebook/framework/resources/RegistrationOverlayResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('show','покажи','./com/amazon/ebook/framework/resources/RegistrationOverlayResources_en_GB.translation','strings_4.1.1');
@@ -254,7 +254,7 @@ INSERT INTO `trans` VALUES ('forget','забрави','./com/amazon/ebook/framew
 INSERT INTO `trans` VALUES ('connecting...','свързване…','./com/amazon/ebook/framework/resources/WifiPopupResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('enter other Wi-Fi network','въведете друга Wi-Fi мрежа','./com/amazon/ebook/framework/resources/WifiPopupResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('scanning...','търсене…','./com/amazon/ebook/framework/resources/WifiPopupResources_en_GB.translation','strings_4.1.1');
-INSERT INTO `trans` VALUES ('rescan','обновяване','./com/amazon/ebook/framework/resources/WifiPopupResources_en_GB.translation','strings_4.1.1');
+INSERT INTO `trans` VALUES ('rescan','опресни','./com/amazon/ebook/framework/resources/WifiPopupResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('secure','защитена','./com/amazon/ebook/framework/resources/WifiPopupResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('open','отворена','./com/amazon/ebook/framework/resources/WifiPopupResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('A Wi-Fi connection is required to complete this task. Connect to a Wi-Fi network or try again later.','Необходима е връзка с Wi-Fi мрежа, за да се завърши тази операция. Свържете се към Wi-Fi мрежа или опитайте отново по-късно.','./com/amazon/ebook/framework/resources/WifiPopupResources_en_GB.translation','strings_4.1.1');
@@ -1226,7 +1226,7 @@ INSERT INTO `trans` VALUES ('You will not be able to access this item until the 
 INSERT INTO `trans` VALUES ('done','готово','./com/amazon/ebook/booklet/home/foundation/resources/DictionariesManagerResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Settings','Настройки','./com/amazon/ebook/booklet/home/foundation/resources/DictionariesManagerResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Dictionaries','Речници','./com/amazon/ebook/booklet/home/foundation/resources/DictionariesManagerResources_en_GB.translation','strings_4.1.1');
-INSERT INTO `trans` VALUES ('Select a default dictionary for each language.','Виберіть основний словник для кожної мови.','./com/amazon/ebook/booklet/home/foundation/resources/DictionariesManagerResources_en_GB.translation','strings_4.1.1');
+INSERT INTO `trans` VALUES ('Select a default dictionary for each language.','Изберете основен речник за всеки език.','./com/amazon/ebook/booklet/home/foundation/resources/DictionariesManagerResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('change default','промени основния','./com/amazon/ebook/booklet/home/foundation/resources/DictionariesManagerResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Items Not Yet Indexed','Артикулите все още не са индексирани','./com/amazon/ebook/booklet/home/foundation/resources/UnindexedResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('0#Showing {0,number,integer} Items|1#Showing {0,number,integer} Item|2#Showing {0,number,integer} Items','0#Показани са {0,number,integer} артикула|1#Показан е {0,number,integer} артикул|2#Показани са {0,number,integer} артикула','./com/amazon/ebook/booklet/home/foundation/resources/UnindexedResources_en_GB.translation','strings_4.1.1');
@@ -1237,7 +1237,7 @@ INSERT INTO `trans` VALUES ('select  to go to {0} authors','изберете 
 INSERT INTO `trans` VALUES ('1#Page {1} of {0}','1#Страница {1} от {0}','./com/amazon/ebook/booklet/home/foundation/resources/FooterBarResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('select dictionary','избери речника','./com/amazon/ebook/booklet/home/foundation/resources/FooterBarResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Settings','Настройки','./com/amazon/ebook/booklet/home/foundation/resources/SelectDictionaryResources_en_GB.translation','strings_4.1.1');
-INSERT INTO `trans` VALUES ('{0} Dictionaries','{0} речника','./com/amazon/ebook/booklet/home/foundation/resources/SelectDictionaryResources_en_GB.translation','strings_4.1.1');
+INSERT INTO `trans` VALUES ('{0} Dictionaries','{0} речници','./com/amazon/ebook/booklet/home/foundation/resources/SelectDictionaryResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Select a default dictionary for {0}.','Изберете основен речник за {0}.','./com/amazon/ebook/booklet/home/foundation/resources/SelectDictionaryResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('done','готово','./com/amazon/ebook/booklet/home/foundation/resources/SelectDictionaryResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Default','Основен','./com/amazon/ebook/booklet/home/foundation/resources/SelectDictionaryResources_en_GB.translation','strings_4.1.1');
@@ -1263,7 +1263,7 @@ INSERT INTO `trans` VALUES ('not connected','не е свързана','./com/am
 INSERT INTO `trans` VALUES ('Join a Wi-Fi network to buy books and use other Kindle features.','Свържете се към безжична мрежа, за да купувате книги и използвате други функции, които изискват връзка с Интернет.','./com/amazon/ebook/booklet/home/foundation/resources/SettingsResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Available Wi-Fi Networks ({0})~~Network: {1}','Налични безжични мрежи ({0})~~Мрежа: {1}','./com/amazon/ebook/booklet/home/foundation/resources/SettingsResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Available Wi-Fi Networks ({0,number,integer})~~Network: {1}','Налични безжични мрежи ({0,number,integer})~~Мрежа: {1}','./com/amazon/ebook/booklet/home/foundation/resources/SettingsResources_en_GB.translation','strings_4.1.1');
-INSERT INTO `trans` VALUES ('view','виж','./com/amazon/ebook/booklet/home/foundation/resources/SettingsResources_en_GB.translation','strings_4.1.1');
+INSERT INTO `trans` VALUES ('view','виж всички','./com/amazon/ebook/booklet/home/foundation/resources/SettingsResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Registration','Регистрация','./com/amazon/ebook/booklet/home/foundation/resources/SettingsResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('This device and any content purchased in the Kindle Store are registered to the Amazon user shown below.','Това устройство и съдържанието, закупено от книжарницата на Amazon, са регистирани на името на потребителя, показан по-долу.','./com/amazon/ebook/booklet/home/foundation/resources/SettingsResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('not registered','не е регистрирано','./com/amazon/ebook/booklet/home/foundation/resources/SettingsResources_en_GB.translation','strings_4.1.1');
@@ -1314,7 +1314,7 @@ INSERT INTO `trans` VALUES ('Personal Info','Лични данни','./com/amazo
 INSERT INTO `trans` VALUES ('- no personal info -','- няма лични данни -','./com/amazon/ebook/booklet/home/foundation/resources/SettingsResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('manage','настрой','./com/amazon/ebook/booklet/home/foundation/resources/SettingsResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Social Networks','Социални мрежи','./com/amazon/ebook/booklet/home/foundation/resources/SettingsResources_en_GB.translation','strings_4.1.1');
-INSERT INTO `trans` VALUES ('Share notes and highlights with friends using your social network accounts (such as Twitter or Facebook).','Споделяйте с приятели бележки и подчертавания чрез социалните мрежи (като Twitter и Facebook).','./com/amazon/ebook/booklet/home/foundation/resources/SettingsResources_en_GB.translation','strings_4.1.1');
+INSERT INTO `trans` VALUES ('Share notes and highlights with friends using your social network accounts (such as Twitter or Facebook).','Споделяйте с приятели бележки и подчертавания в социалните мрежи (като Twitter и Facebook).','./com/amazon/ebook/booklet/home/foundation/resources/SettingsResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Annotations Backup','Архивиране на коментарите','./com/amazon/ebook/booklet/home/foundation/resources/SettingsResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Automatically backup your device annotations, last page read and collections at Amazon.','Автоматично архивиране на коментарите, последно прочетените страници и колекциите на сайта на Amazon.','./com/amazon/ebook/booklet/home/foundation/resources/SettingsResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Automatically back up your device annotations, last page read, and collections at Amazon. Annotations not previously backed up may be lost.','Автоматично архивиране на коментарите, последно прочетените страници и колекциите на сайта на Amazon. Коментарите, които не са били архивирани, може да бъдат изгубени.','./com/amazon/ebook/booklet/home/foundation/resources/SettingsResources_en_GB.translation','strings_4.1.1');
