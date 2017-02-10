@@ -343,7 +343,7 @@ INSERT INTO `trans` VALUES ('This book is using custom typefaces that are not ad
 INSERT INTO `trans` VALUES ('Publisher Font','Вградени шрифтове','./com/amazon/ebook/common/gui/overlay/resources/PageActionsOverlayResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('on','включи','./com/amazon/ebook/common/gui/overlay/resources/PageActionsOverlayResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('off','излкючи','./com/amazon/ebook/common/gui/overlay/resources/PageActionsOverlayResources_en_GB.translation','strings_4.1.1');
-INSERT INTO `trans` VALUES (' my items',' мои артикула','./com/amazon/ebook/common/resources/SearchFeatureResources_en_GB.translation','strings_4.1.1');
+INSERT INTO `trans` VALUES (' my items',' в моите артикули','./com/amazon/ebook/common/resources/SearchFeatureResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('store','книжарница','./com/amazon/ebook/common/resources/SearchFeatureResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('dictionary','речник','./com/amazon/ebook/common/resources/SearchFeatureResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('go to','отиди на','./com/amazon/ebook/common/resources/SearchFeatureResources_en_GB.translation','strings_4.1.1');
