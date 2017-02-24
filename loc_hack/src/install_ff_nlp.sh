@@ -140,13 +140,4 @@ touch /mnt/us/localization/INSTALLED
 logmsg "I" "update" "done"
 update_progressbar 100
 
-/usr/sbin/eips -c
-/usr/sbin/eips -g success.png
-
-for i in $(seq 1 10)
-do
-	sleep 1
-	/usr/sbin/eips 45 1 $(( 10 - i ))
-done
-
 return 0
