@@ -1041,7 +1041,7 @@ INSERT INTO `trans` VALUES ('Narrator: {0}','Разказвач: {0}','./com/ama
 INSERT INTO `trans` VALUES ('Date: {0}','Дата: {0}','./com/amazon/ebook/booklet/home/foundation/resources/MainResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Length: {0}','Продължителност: {0}','./com/amazon/ebook/booklet/home/foundation/resources/MainResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Unknown','неизвестна','./com/amazon/ebook/booklet/home/foundation/resources/ViewInfoResources_en_GB.translation','strings_4.1.1');
-INSERT INTO `trans` VALUES ('Go to Last Page Read','Към последно прочетената страница','./com/amazon/ebook/booklet/home/foundation/resources/ViewInfoResources_en_GB.translation','strings_4.1.1');
+INSERT INTO `trans` VALUES ('Go to Last Page Read','Към посл. проч. стр.','./com/amazon/ebook/booklet/home/foundation/resources/ViewInfoResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Go to First Article','Към първата статия','./com/amazon/ebook/booklet/home/foundation/resources/ViewInfoResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Go to Beginning','Към началото','./com/amazon/ebook/booklet/home/foundation/resources/ViewInfoResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Go to Location...','Към позиция…','./com/amazon/ebook/booklet/home/foundation/resources/ViewInfoResources_en_GB.translation','strings_4.1.1');
@@ -1087,7 +1087,7 @@ INSERT INTO `trans` VALUES ('0#0 Items|1#1 Item|2#{0,number,integer} Items','0#0
 INSERT INTO `trans` VALUES ('Open Collection','Отваряне на колекцията','./com/amazon/ebook/booklet/home/foundation/resources/ViewInfoResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Add/Remove Items','Добавяне/премахване на артикули','./com/amazon/ebook/booklet/home/foundation/resources/ViewInfoResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Rename Collection','Преименуване на колекцията','./com/amazon/ebook/booklet/home/foundation/resources/ViewInfoResources_en_GB.translation','strings_4.1.1');
-INSERT INTO `trans` VALUES ('Go to Last Page Red','Към последно прочетената страница','./com/amazon/ebook/booklet/home/foundation/resources/ViewInfoResources_en_GB.translation','strings_4.1.1');
+INSERT INTO `trans` VALUES ('Go to Last Page Red','Към посл. проч. стр.','./com/amazon/ebook/booklet/home/foundation/resources/ViewInfoResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('info view','детайли','./com/amazon/ebook/booklet/home/foundation/resources/ViewInfoResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('unknown','неизвестен','./com/amazon/ebook/booklet/home/foundation/resources/UtilResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Experimental','Експерименти','./com/amazon/ebook/booklet/home/foundation/resources/ExperimentalResources_en_GB.translation','strings_4.1.1');
