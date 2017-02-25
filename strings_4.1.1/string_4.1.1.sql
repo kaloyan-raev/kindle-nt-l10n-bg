@@ -1335,7 +1335,7 @@ INSERT INTO `trans` VALUES ('Page {0} of {1}','Страница {0} от {1}','.
 INSERT INTO `trans` VALUES ('{0}, Page {1,number,integer} of {2,number,integer}, {3}','{0}, Страница {1,number,integer} от {2,number,integer}, {3}','./com/amazon/ebook/booklet/home/foundation/resources/SettingsResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Enter Password: ','Въведете парола: ','./com/amazon/ebook/booklet/home/foundation/resources/SettingsResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Confirm Password: ','Потвърдете паролата: ','./com/amazon/ebook/booklet/home/foundation/resources/SettingsResources_en_GB.translation','strings_4.1.1');
-INSERT INTO `trans` VALUES ('Set Password','Сложете парола','./com/amazon/ebook/booklet/home/foundation/resources/SettingsResources_en_GB.translation','strings_4.1.1');
+INSERT INTO `trans` VALUES ('Set Password','Задайте парола','./com/amazon/ebook/booklet/home/foundation/resources/SettingsResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Edit Password','Променете паролата','./com/amazon/ebook/booklet/home/foundation/resources/SettingsResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Passwords did not match. Please try again.','Паролите не съвпадат. Моля, опитайте отново.','./com/amazon/ebook/booklet/home/foundation/resources/SettingsResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Incorrect password. Please try again.','Грешна парола. Моля, опитайте отново.','./com/amazon/ebook/booklet/home/foundation/resources/SettingsResources_en_GB.translation','strings_4.1.1');
