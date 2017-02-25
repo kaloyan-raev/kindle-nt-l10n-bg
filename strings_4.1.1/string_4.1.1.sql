@@ -1557,7 +1557,7 @@ INSERT INTO `trans` VALUES ('item.body','Синхронизация и пров�
 INSERT INTO `trans` VALUES ('item.date.format','dd MMMM yyyy - HH:mm a','./com/amazon/ebook/framework/resources/CheckItems_en_GB.properties','strings_4.1.1');
 INSERT INTO `trans` VALUES ('search.items.hint.msg','(започнете да пишете за търсене)','./com/amazon/ebook/framework/resources/TextEntryAction_en_GB.properties','strings_4.1.1');
 INSERT INTO `trans` VALUES ('search.general.hint.msg','(започнете да пишете за търсене)','./com/amazon/ebook/framework/resources/TextEntryAction_en_GB.properties','strings_4.1.1');
-INSERT INTO `trans` VALUES ('comm.message.connecting','Свързва се към безжичната мрежа','./com/amazon/ebook/framework/resources/CommunicationManager_en_GB.properties','strings_4.1.1');
+INSERT INTO `trans` VALUES ('comm.message.connecting','Свързва се към мрежата','./com/amazon/ebook/framework/resources/CommunicationManager_en_GB.properties','strings_4.1.1');
 INSERT INTO `trans` VALUES ('comm.message.items.deleted','Артикулите са изтрити','./com/amazon/ebook/framework/resources/CommunicationManager_en_GB.properties','strings_4.1.1');
 INSERT INTO `trans` VALUES ('comm.message.items.downloaded','Артикулите са изтеглени','./com/amazon/ebook/framework/resources/CommunicationManager_en_GB.properties','strings_4.1.1');
 INSERT INTO `trans` VALUES ('comm.message.no.new.items','Няма нови артикули','./com/amazon/ebook/framework/resources/CommunicationManager_en_GB.properties','strings_4.1.1');
