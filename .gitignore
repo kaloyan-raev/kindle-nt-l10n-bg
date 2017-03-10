@@ -7,4 +7,5 @@ loc_hack/src/translation.jar
 strings_*/table.csv
 translation_*/
 translation_*.jar
+*.bin
 *.sqlite

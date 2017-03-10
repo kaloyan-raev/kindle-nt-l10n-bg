@@ -19,9 +19,6 @@ ARCH=${PKGNAME}_${PKGVER}_k4x
 # Build uninstall update
 ./kindletool create ota2 -d kindle4 uninstall.sh update_${ARCH}_uninstall.bin
 
-# Pack the updates
-rm -f ../${PKGNAME}_${PKGVER}.zip
-zip -r ../${PKGNAME}_${PKGVER}.zip *.bin Readme.txt
-rm -f *.bin
+# Clean up
 rm img.tar.gz
 rm low_level_screens.tar.gz
