@@ -34,9 +34,9 @@
 
 Горните стъпки могат да се използват и за инсталиране на по-нова версия на локализацията.
 
-В случай на затруднения, моля [отворете проблем](https://github.com/kaloyan-raev/chitanka4kindle/issues/new) към проекта.
+В случай на затруднения, моля [отворете проблем](https://github.com/kaloyan-raev/kindle-nt-l10n-bg/issues/new) към проекта.
 
 Лиценз
 ======
 
-Читанка за Kindle е безплатен и свободен софтуер. Разпространява се под лиценза GNU General Public License, версия 3. Пълният текст на лиценза може да видите във файла [LICENSE](https://github.com/kaloyan-raev/chitanka4kindle/blob/master/LICENSE).
+Читанка за Kindle е безплатен и свободен софтуер. Разпространява се под лиценза GNU General Public License, версия 3. Пълният текст на лиценза може да видите във файла [LICENSE](https://github.com/kaloyan-raev/kindle-nt-l10n-bg/blob/master/LICENSE).
