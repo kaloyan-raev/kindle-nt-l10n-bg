@@ -3,6 +3,7 @@ loc_hack/src/framework-api-*.jar
 loc_hack/src/img.tar.gz
 loc_hack/src/low_level_screens.tar.gz
 loc_hack/src/kindletool
+loc_hack/src/MobiReader-*.jar
 loc_hack/src/translation.jar
 strings_*/table.csv
 translation_*/
