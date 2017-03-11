@@ -21,23 +21,23 @@ public class CursorOptionsResources_bg_BG extends ListResourceBundle
 
     static final Object f[][] = {
         {
-            "full.definition", "визначення"
+            "full.definition", "дефиниция"
         }, {
-            "cancel", "скасувати"
+            "cancel", "отмени"
         }, {
-            "highlight.start", "розпочати виділяти"
+            "highlight.start", "ново подчерт."
         }, {
-            "highlight.end", "завершити виділяти"
+            "highlight.end", "завърши подчерт."
         }, {
-            "highlight.delete", "видалити позначку"
+            "highlight.delete", "изтрий подчерт."
         }, {
-            "note.delete", "видалити нотатку"
+            "note.delete", "изтрий бележката"
         }, {
-            "share", "поділитись"
+            "share", "сподели"
         }, {
-            "create.note", "створити нотатку"
+            "create.note", "нова бележка"
         }, {
-            "follow", "перейти за посиланням"
+            "follow", "към връзката"
         }
     };
 
