@@ -263,7 +263,7 @@ INSERT INTO `trans` VALUES ('Enter Wi-Fi password for {0}:','Въведете п
 INSERT INTO `trans` VALUES ('hide','скрий','./com/amazon/ebook/framework/resources/WifiPopupResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('show','покажи','./com/amazon/ebook/framework/resources/WifiPopupResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Password:','Парола:','./com/amazon/ebook/framework/resources/WifiPopupResources_en_GB.translation','strings_4.1.1');
-INSERT INTO `trans` VALUES ('Unable to Connect to Wi-Fi Network~~~~','Не може да се свърже с Wi-Fi мрежата~~~~','./com/amazon/ebook/framework/resources/WifiPopupResources_en_GB.translation','strings_4.1.1');
+INSERT INTO `trans` VALUES ('Unable to Connect to Wi-Fi Network~~~~','Неуспешно свързване с Wi-Fi мрежата~~~~','./com/amazon/ebook/framework/resources/WifiPopupResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Your Kindle is unable to connect to the Wi-Fi network "{0}". ','Вашият Kindle не може да се свърже с Wi-Fi мрежата „{0}“. ','./com/amazon/ebook/framework/resources/WifiPopupResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Do you wish to try again or set up this network manually?','Желаете ли да опитате отново или да настроите мрежата ръчно?','./com/amazon/ebook/framework/resources/WifiPopupResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Do you wish to enter the password again or set up this network manually?','Желаете ли да въведете паролата отново или да настроите мрежата ръчно?','./com/amazon/ebook/framework/resources/WifiPopupResources_en_GB.translation','strings_4.1.1');
