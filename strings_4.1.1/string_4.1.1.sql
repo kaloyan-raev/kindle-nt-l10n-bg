@@ -1277,7 +1277,7 @@ INSERT INTO `trans` VALUES ('Wi-Fi MAC Address: {0}','Wi-Fi MAC адрес: {0}'
 INSERT INTO `trans` VALUES ('Serial Number: {0}','Сериен номер: {0}','./com/amazon/ebook/booklet/home/foundation/resources/SettingsResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Network Capability: {0}','Поддържани мрежи: {0}','./com/amazon/ebook/booklet/home/foundation/resources/SettingsResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('System Tag: {0}','Системен етикет: {0}','./com/amazon/ebook/booklet/home/foundation/resources/SettingsResources_en_GB.translation','strings_4.1.1');
-INSERT INTO `trans` VALUES ('Policy ID: {0}','Policy ID','./com/amazon/ebook/booklet/home/foundation/resources/SettingsResources_en_GB.translation','strings_4.1.1');
+INSERT INTO `trans` VALUES ('Policy ID: {0}','Набор правилa: {0}','./com/amazon/ebook/booklet/home/foundation/resources/SettingsResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Unavailable','Недостъпен','./com/amazon/ebook/booklet/home/foundation/resources/SettingsResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Wi-Fi and 3G','Wi-Fi и 3G','./com/amazon/ebook/booklet/home/foundation/resources/SettingsResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Device Name','Име на устройството','./com/amazon/ebook/booklet/home/foundation/resources/SettingsResources_en_GB.translation','strings_4.1.1');
