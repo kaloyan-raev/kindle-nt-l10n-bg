@@ -873,7 +873,7 @@ INSERT INTO `trans` VALUES ('Access to Archived Items','Достъп до арх
 INSERT INTO `trans` VALUES ('turn on','включи','./com/amazon/ebook/booklet/home/foundation/resources/ParentalResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('turn off','изключи','./com/amazon/ebook/booklet/home/foundation/resources/ParentalResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Set Parental Controls Password','Посочете парола за родителския контрол','./com/amazon/ebook/booklet/home/foundation/resources/ParentalResources_en_GB.translation','strings_4.1.1');
-INSERT INTO `trans` VALUES ('Select Save to change Parental Controls and restart your Kindle','Изберете „Запази“, за да запазите промените в родителския контрол и да рестартите Вашия Kindle','./com/amazon/ebook/booklet/home/foundation/resources/ParentalResources_en_GB.translation','strings_4.1.1');
+INSERT INTO `trans` VALUES ('Select Save to change Parental Controls and restart your Kindle','Изберете „Запази“, за да запазите промените в родителския контрол и рестартирате Вашия Kindle','./com/amazon/ebook/booklet/home/foundation/resources/ParentalResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Parental Controls have changed:','Родителския контрол се промени:','./com/amazon/ebook/booklet/home/foundation/resources/ParentalResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('save','запази','./com/amazon/ebook/booklet/home/foundation/resources/ParentalResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Dictionaries','Речници','./com/amazon/ebook/booklet/home/foundation/resources/HomeDictionaryResources_en_GB.translation','strings_4.1.1');
