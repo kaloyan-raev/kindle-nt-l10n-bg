@@ -1290,7 +1290,7 @@ INSERT INTO `trans` VALUES ('set','настрой','./com/amazon/ebook/booklet/h
 INSERT INTO `trans` VALUES ('set manually','настрой ръчно','./com/amazon/ebook/booklet/home/foundation/resources/SettingsResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('set automatically','настрой автоматично','./com/amazon/ebook/booklet/home/foundation/resources/SettingsResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Device Password','Парола на устройството','./com/amazon/ebook/booklet/home/foundation/resources/SettingsResources_en_GB.translation','strings_4.1.1');
-INSERT INTO `trans` VALUES ('Restrict access to your Kindle by creating a password.','Ограничете достъпа до Вашия Kindle като зададете парола.','./com/amazon/ebook/booklet/home/foundation/resources/SettingsResources_en_GB.translation','strings_4.1.1');
+INSERT INTO `trans` VALUES ('Restrict access to your Kindle by creating a password.','Ограничете достъпа до Вашия Kindle като сложите парола.','./com/amazon/ebook/booklet/home/foundation/resources/SettingsResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('On','Вкл.','./com/amazon/ebook/booklet/home/foundation/resources/SettingsResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Off','Изкл.','./com/amazon/ebook/booklet/home/foundation/resources/SettingsResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('turn on','включи','./com/amazon/ebook/booklet/home/foundation/resources/SettingsResources_en_GB.translation','strings_4.1.1');
