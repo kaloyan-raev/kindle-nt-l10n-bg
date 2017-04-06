@@ -890,8 +890,8 @@ INSERT INTO `trans` VALUES ('Books','Книги','./com/amazon/ebook/booklet/hom
 INSERT INTO `trans` VALUES ('Subscriptions','Абонаменти','./com/amazon/ebook/booklet/home/foundation/resources/CollectionResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Personal Docs','Лични документи','./com/amazon/ebook/booklet/home/foundation/resources/CollectionResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('By Most Recent First','По последно четени','./com/amazon/ebook/booklet/home/foundation/resources/CollectionResources_en_GB.translation','strings_4.1.1');
-INSERT INTO `trans` VALUES ('By Title','По заглавия','./com/amazon/ebook/booklet/home/foundation/resources/CollectionResources_en_GB.translation','strings_4.1.1');
-INSERT INTO `trans` VALUES ('By Author','По автори','./com/amazon/ebook/booklet/home/foundation/resources/CollectionResources_en_GB.translation','strings_4.1.1');
+INSERT INTO `trans` VALUES ('By Title','По заглавиe','./com/amazon/ebook/booklet/home/foundation/resources/CollectionResources_en_GB.translation','strings_4.1.1');
+INSERT INTO `trans` VALUES ('By Author','По автор','./com/amazon/ebook/booklet/home/foundation/resources/CollectionResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Most Recent First','Първо последно четените','./com/amazon/ebook/booklet/home/foundation/resources/CollectionResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Title','Заглавие','./com/amazon/ebook/booklet/home/foundation/resources/CollectionResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Author','Автор','./com/amazon/ebook/booklet/home/foundation/resources/CollectionResources_en_GB.translation','strings_4.1.1');
@@ -1168,7 +1168,7 @@ INSERT INTO `trans` VALUES ('Author','Автор','./com/amazon/ebook/booklet/ho
 INSERT INTO `trans` VALUES ('Your download was not successful. Please try again.','Изтеглянето е неуспешно. Моля, опитайте отново.','./com/amazon/ebook/booklet/home/foundation/resources/YMLResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('"{0}" could not be downloaded due to insufficient Kindle memory. Please free up space by removing content from Home.','„{0}“ не може да се изтегли поради недостатъчно свободна памет. Моля, освободете място като премахнете ненужното съдържание от главния екран.','./com/amazon/ebook/booklet/home/foundation/resources/YMLResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Wi-Fi Network Required','Изисква се Wi-Fi мрежа','./com/amazon/ebook/booklet/home/foundation/resources/YMLResources_en_GB.translation','strings_4.1.1');
-INSERT INTO `trans` VALUES ('A Wi-Fi network connection is required to complete this task. Please connect to a Wi-Fi network.','Успешното изпълнение на тази задача изисква връзка към безжична мрежа. Моля, свържете се към безжичната (Wi-Fi) мрежа.','./com/amazon/ebook/booklet/home/foundation/resources/YMLResources_en_GB.translation','strings_4.1.1');
+INSERT INTO `trans` VALUES ('A Wi-Fi network connection is required to complete this task. Please connect to a Wi-Fi network.','Изисква се връзка към безжична мрежа за успешното изпълнение на тази задача. Моля, свържете се към безжичната (Wi-Fi) мрежа.','./com/amazon/ebook/booklet/home/foundation/resources/YMLResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('view all networks','покажи всички мрежи','./com/amazon/ebook/booklet/home/foundation/resources/YMLResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('item {0} of {1}','артикул {0} от {1}','./com/amazon/ebook/booklet/home/foundation/resources/YMLResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('add to home','добави на главния екран','./com/amazon/ebook/booklet/home/foundation/resources/YMLResources_en_GB.translation','strings_4.1.1');
