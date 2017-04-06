@@ -537,7 +537,7 @@ INSERT INTO `trans` VALUES ('delete note','изтрий бележката','./c
 INSERT INTO `trans` VALUES ('share','сподели','./com/amazon/ebook/booklet/reader/gui/overlay/cursoroptions/resources/CursorOptionsResources_en_GB.translation','strings_4.1.1_inJAR');
 INSERT INTO `trans` VALUES ('create note','нова бележка','./com/amazon/ebook/booklet/reader/gui/overlay/cursoroptions/resources/CursorOptionsResources_en_GB.translation','strings_4.1.1_inJAR');
 INSERT INTO `trans` VALUES ('follow link','към връзката','./com/amazon/ebook/booklet/reader/gui/overlay/cursoroptions/resources/CursorOptionsResources_en_GB.translation','strings_4.1.1_inJAR');
-INSERT INTO `trans` VALUES ('(press SYM key for numbers 0 - 9)','(натиснете клавиша SYM за цифрите 0 - 9)','./com/amazon/ebook/booklet/reader/gui/overlay/gotolocation/resources/GotoOverlayResources_en_GB.translation','strings_4.1.1');
+INSERT INTO `trans` VALUES ('(press SYM key for numbers 0 - 9)','(натиснете SYM за цифрите 0 - 9)','./com/amazon/ebook/booklet/reader/gui/overlay/gotolocation/resources/GotoOverlayResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Go to...','Отиди на…','./com/amazon/ebook/booklet/reader/gui/overlay/gotolocation/resources/GotoOverlayResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('location','позиция','./com/amazon/ebook/booklet/reader/gui/overlay/gotolocation/resources/GotoOverlayResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('beginning','начало','./com/amazon/ebook/booklet/reader/gui/overlay/gotolocation/resources/GotoOverlayResources_en_GB.translation','strings_4.1.1');
