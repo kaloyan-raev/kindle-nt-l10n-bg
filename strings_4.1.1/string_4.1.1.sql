@@ -1630,6 +1630,6 @@ INSERT INTO `trans` VALUES ('Anchor to Top Right','Закрепи за горн�
 INSERT INTO `trans` VALUES ('Anchor to Top Left','Закрепи за горния ляв ъгъл','./com/amazon/ebook/booklet/pictureviewer/gui/l.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Use Partial Refresh','Частично опресняване','./com/amazon/ebook/booklet/pictureviewer/gui/l.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Use Full Refresh','Пълно опресняване','./com/amazon/ebook/booklet/pictureviewer/gui/l.translation','strings_4.1.1');
-INSERT INTO `trans` VALUES ('Disable Full Screen Mode','Излючване на режима за цял екран','./com/amazon/ebook/booklet/pictureviewer/gui/l.translation','strings_4.1.1');
-INSERT INTO `trans` VALUES ('Enable Full Screen Mode','Включване не режима за цял екран','./com/amazon/ebook/booklet/pictureviewer/gui/l.translation','strings_4.1.1');
+INSERT INTO `trans` VALUES ('Disable Full Screen Mode','Излючване на режима на цял екран','./com/amazon/ebook/booklet/pictureviewer/gui/l.translation','strings_4.1.1');
+INSERT INTO `trans` VALUES ('Enable Full Screen Mode','Включване на режима на цял екран','./com/amazon/ebook/booklet/pictureviewer/gui/l.translation','strings_4.1.1');
 COMMIT;
