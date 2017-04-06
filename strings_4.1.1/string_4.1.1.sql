@@ -561,8 +561,8 @@ INSERT INTO `trans` VALUES ('dictionary','речник','./com/amazon/ebook/book
 INSERT INTO `trans` VALUES (' dictionary',' речник','./com/amazon/ebook/booklet/reader/gui/overlay/resources/ReaderSearchOverlayResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('note','бележка','./com/amazon/ebook/booklet/reader/gui/overlay/resources/ReaderSearchOverlayResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('close','затвори','./com/amazon/ebook/booklet/reader/gui/overlay/resources/ReaderSearchOverlayResources_en_GB.translation','strings_4.1.1');
-INSERT INTO `trans` VALUES ('search next','намери следващия','./com/amazon/ebook/booklet/reader/gui/overlay/resources/ReaderSearchOverlayResources_en_GB.translation','strings_4.1.1');
-INSERT INTO `trans` VALUES ('search previous','намери предишния','./com/amazon/ebook/booklet/reader/gui/overlay/resources/ReaderSearchOverlayResources_en_GB.translation','strings_4.1.1');
+INSERT INTO `trans` VALUES ('search next','следващ','./com/amazon/ebook/booklet/reader/gui/overlay/resources/ReaderSearchOverlayResources_en_GB.translation','strings_4.1.1');
+INSERT INTO `trans` VALUES ('search previous','предишен','./com/amazon/ebook/booklet/reader/gui/overlay/resources/ReaderSearchOverlayResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('This PDF is password protected.','Този PDF е защитен с парола.','./com/amazon/ebook/booklet/reader/gui/overlay/resources/PDFPasswordOverlayResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Incorrect password. Please try again.','Грешна парола. Моля, опитайте отново.','./com/amazon/ebook/booklet/reader/gui/overlay/resources/PDFPasswordOverlayResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Enter password: ','Въведете парола: ','./com/amazon/ebook/booklet/reader/gui/overlay/resources/PDFPasswordOverlayResources_en_GB.translation','strings_4.1.1');
