@@ -50,7 +50,7 @@
 
 1. Използвайте компютър, за да свалите файла _update_loc_bg_1.0_k4x_uninstall.bin_ от същата [версия](https://github.com/kaloyan-raev/kindle-nt-l10n-bg/releases) на локализацията, която сте инсталирали.
 1. Свържете Kindle към компютъра чрез USB кабела. Изчакайте Kindle да се разпознае като USB диск на компютъра.
-1. Копирайте файла в _update_loc_bg_1.0_k4x_uninstall.bin_ в главната папка на Kindle.
+1. Копирайте файла _update_loc_bg_1.0_k4x_uninstall.bin_ в главната папка на Kindle.
 1. Извадете Kindle като USB диск от компютъра, т.нар. "safe remove".
 1. Извадете USB кабела от Kindle. Изчакайте Kindle да премине в нормален режим на работа.
 1. Обновете Kindle: _Меню -> Настройки -> Меню -> Обновяване на Kindle_.
