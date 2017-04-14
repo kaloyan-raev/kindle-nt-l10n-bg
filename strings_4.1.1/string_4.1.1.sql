@@ -664,7 +664,7 @@ INSERT INTO `trans` VALUES ('My Notes & Marks','Моите бележки','./co
 INSERT INTO `trans` VALUES ('My Bookmarks','Моите отметки','./com/amazon/ebook/booklet/reader/resources/ReaderResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Add Note or Highlight','Добави бележка или подчертаване','./com/amazon/ebook/booklet/reader/resources/ReaderResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Place Cursor in Page','Премести курсора в страницата','./com/amazon/ebook/booklet/reader/resources/ReaderResources_en_GB.translation','strings_4.1.1');
-INSERT INTO `trans` VALUES ('Add Bookmark','Добави на отметка','./com/amazon/ebook/booklet/reader/resources/ReaderResources_en_GB.translation','strings_4.1.1');
+INSERT INTO `trans` VALUES ('Add Bookmark','Добави отметка','./com/amazon/ebook/booklet/reader/resources/ReaderResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Delete Bookmark','Изтрий отметката','./com/amazon/ebook/booklet/reader/resources/ReaderResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Show Annotations','Покажи коментарите','./com/amazon/ebook/booklet/reader/resources/ReaderResources_en_GB.translation','strings_4.1.1');
 INSERT INTO `trans` VALUES ('Hide Annotations','Скрий коментарите','./com/amazon/ebook/booklet/reader/resources/ReaderResources_en_GB.translation','strings_4.1.1');
